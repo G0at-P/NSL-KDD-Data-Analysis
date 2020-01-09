@@ -14,3 +14,5 @@ You can download the dataset via the [link](https://www.unb.ca/cic/datasets/nsl.
 
 4) Probing Attack: is an attempt to gather informationabout a network of computers for the apparent purposeof circumventing its security controls.
 
+## Results
+XGBoost outperforms other models in terms of the accuracy. 
